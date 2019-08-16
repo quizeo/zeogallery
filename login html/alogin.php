@@ -32,7 +32,7 @@
 </head>
 <body>
 	<br>
-	<form action="Assignment05.html">
+	<form action="Assignment05.php">
 	<center>
 		<table>
 			<tr>
@@ -55,10 +55,10 @@
 		</table>
 
 		<p>
-			<a href="forgotthepassword.html">Forgot the Password</a>
+			<a href="forgotthepassword.php">Forgot the Password</a>
 		</p>
 		<p>
-			<a href="signup.html">Sign Up</a>
+			<a href="signup.php">Sign Up</a>
 		</p>
 		</form>
 		</center>
