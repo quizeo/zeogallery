@@ -29,12 +29,12 @@
 <hr width="75%">
 	<main>
 		<p>
-			<a href="photo04.html">Next Photo</a>
+			<a href="photo04.php">Next Photo</a>
 		</p>
 	</main>
 	
 	<p>
-		<a href="Assignment05.html">Back to home</a>
+		<a href="Assignment05.php">Back to home</a>
 	</p>
 
 	
