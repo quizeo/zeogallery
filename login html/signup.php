@@ -63,8 +63,9 @@
 				</td>
 			</tr>
 		</table>
+			</center>
 	</form>
-	</center>
+	
 
 
 	<footer>
